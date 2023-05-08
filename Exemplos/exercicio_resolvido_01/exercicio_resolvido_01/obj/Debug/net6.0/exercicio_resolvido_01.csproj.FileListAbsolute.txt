@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\bin\Debug\net6.0\exercicio_resolvido_01.exe
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\bin\Debug\net6.0\exercicio_resolvido_01.deps.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\bin\Debug\net6.0\exercicio_resolvido_01.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\bin\Debug\net6.0\exercicio_resolvido_01.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\bin\Debug\net6.0\exercicio_resolvido_01.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\refint\exercicio_resolvido_01.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\exercicio_resolvido_01.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_01\exercicio_resolvido_01\obj\Debug\net6.0\ref\exercicio_resolvido_01.dll

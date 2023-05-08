@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\bin\Debug\net6.0\exercicio_resolvido_03_vetores.exe
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\bin\Debug\net6.0\exercicio_resolvido_03_vetores.deps.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\bin\Debug\net6.0\exercicio_resolvido_03_vetores.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\bin\Debug\net6.0\exercicio_resolvido_03_vetores.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\bin\Debug\net6.0\exercicio_resolvido_03_vetores.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\refint\exercicio_resolvido_03_vetores.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\exercicio_resolvido_03_vetores.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_03_vetores\exercicio_resolvido_03_vetores\obj\Debug\net6.0\ref\exercicio_resolvido_03_vetores.dll

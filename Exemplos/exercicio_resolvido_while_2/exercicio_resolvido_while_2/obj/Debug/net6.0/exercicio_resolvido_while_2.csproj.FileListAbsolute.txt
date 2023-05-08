@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\bin\Debug\net6.0\exercicio_resolvido_while_2.exe
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\bin\Debug\net6.0\exercicio_resolvido_while_2.deps.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\bin\Debug\net6.0\exercicio_resolvido_while_2.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\bin\Debug\net6.0\exercicio_resolvido_while_2.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\bin\Debug\net6.0\exercicio_resolvido_while_2.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\refint\exercicio_resolvido_while_2.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\exercicio_resolvido_while_2.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exemplos\exercicio_resolvido_while_2\exercicio_resolvido_while_2\obj\Debug\net6.0\ref\exercicio_resolvido_while_2.dll

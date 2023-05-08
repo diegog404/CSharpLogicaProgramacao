@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\bin\Debug\net6.0\exercicio_matrizes_04.exe
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\bin\Debug\net6.0\exercicio_matrizes_04.deps.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\bin\Debug\net6.0\exercicio_matrizes_04.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\bin\Debug\net6.0\exercicio_matrizes_04.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\bin\Debug\net6.0\exercicio_matrizes_04.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\refint\exercicio_matrizes_04.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\exercicio_matrizes_04.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_matrizes_04\exercicio_matrizes_04\obj\Debug\net6.0\ref\exercicio_matrizes_04.dll

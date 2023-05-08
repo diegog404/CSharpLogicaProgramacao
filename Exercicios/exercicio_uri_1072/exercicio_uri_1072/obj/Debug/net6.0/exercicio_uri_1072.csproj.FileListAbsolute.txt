@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\bin\Debug\net6.0\exercicio_uri_1072.exe
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\bin\Debug\net6.0\exercicio_uri_1072.deps.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\bin\Debug\net6.0\exercicio_uri_1072.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\bin\Debug\net6.0\exercicio_uri_1072.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\bin\Debug\net6.0\exercicio_uri_1072.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\refint\exercicio_uri_1072.dll
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.pdb
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\exercicio_uri_1072.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Curso C# Lógica de Programação\Projetos\Exercicios\exercicio_uri_1072\exercicio_uri_1072\obj\Debug\net6.0\ref\exercicio_uri_1072.dll
