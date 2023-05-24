@@ -4,6 +4,9 @@
 
 Esse é um repositório que criei para guardar todos os exercícios e exemplos de lógica de programação que realizei no curso. Contém em sua maioria exercícios da plataforma online da beecrowd, antigo URI Online Judge. Os outros exerícios e exemplos foram apresentados pelo professor Nélio Alves, que ministra o curso.
 
+# Linguagem utilizada
+- C#.
+
 # Aprendizados
 
 ## Conceitos básicos
@@ -32,13 +35,8 @@ Esse é um repositório que criei para guardar todos os exercícios e exemplos d
 
 # Professor do curso
 
-Professor  [Nélio Alves](https://www.linkedin.com/in/nelio-alves/)
+Professor  [Nélio Alves](https://www.linkedin.com/in/nelio-alves/).
 
 # Autor
 
 Diego Gomes Nogueira da Silva
-
-
-
-
-
